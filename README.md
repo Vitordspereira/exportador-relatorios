@@ -1,4 +1,4 @@
-# Exportador de Relatórios 🤖
+# Exportador de Relatórios
 
 Este projeto é uma API desenvolvida em Java com Spring Boot para geração de relatórios em segundo plano.
 
